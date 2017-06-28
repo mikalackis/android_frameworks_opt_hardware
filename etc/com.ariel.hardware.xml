@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <feature name="com.ariel.hardware" />
+    <library name="com.ariel.hardware"
+            file="/system/framework/com.ariel.hardware.jar" />
+</permissions>
+
