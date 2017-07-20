@@ -35,4 +35,11 @@ public class UniqueDeviceId {
      * @return String The unique device ID
      */
     public static String getUniqueDeviceId() { return null; }
+
+    /**
+     * This method retreives a unique ID for the device.
+     *
+     * @return String The unique pseudo device ID
+     */
+    public static String getUniquePseudoDeviceId() { return null; }
 }
