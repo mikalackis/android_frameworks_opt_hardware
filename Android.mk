@@ -43,7 +43,8 @@ LOCAL_SRC_FILES += $(default_classes) $(unique_specific_classes)
 
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE := com.ariel.hardware
-LOCAL_JAVA_LIBRARIES := com.ariel.platform.internal
+LOCAL_JAVA_LIBRARIES := com.ariel.platform.internal \
+                        services
 
 include $(BUILD_JAVA_LIBRARY)
 
