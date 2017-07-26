@@ -50,4 +50,10 @@ public class DeviceBattery {
         return -99;
     }
 
+    public static long getChargeRemainingTime(){ return -99; }
+
+    public static boolean isCharging(){ return false; }
+
+    public static long getAwakeTime(){ return -99; }
+
 }
