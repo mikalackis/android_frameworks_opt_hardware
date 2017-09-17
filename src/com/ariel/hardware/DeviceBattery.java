@@ -54,6 +54,6 @@ public class DeviceBattery {
 
     public static boolean isCharging(){ return false; }
 
-    public static long getAwakeTime(){ return -99; }
+    public static long getScreenOnTime() { return -99; }
 
 }
