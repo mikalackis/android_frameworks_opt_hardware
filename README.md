@@ -1,1 +1,0 @@
-# android_frameworks_opt_hardware
